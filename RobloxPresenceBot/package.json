@@ -1,0 +1,21 @@
+{
+  "name": "roblox-presence-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Monitor de presencia de cuentas de Roblox con notificaciones a Discord vía webhook",
+  "type": "module",
+  "engines": {
+    "node": ">=18.17"
+  },
+  "scripts": {
+    "start": "node bot.js start",
+    "check": "node bot.js check",
+    "status": "node bot.js status",
+    "list": "node bot.js list",
+    "test": "node test/self-test.js",
+    "webhook-test": "node bot.js test"
+  },
+  "dependencies": {
+    "sillydev": "^1.3.0"
+  }
+}

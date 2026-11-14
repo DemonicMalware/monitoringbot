@@ -1,0 +1,95 @@
+2026-11-14T21:09:34.911Z [INFO] Añadido: @agustin563554 (ID 1850652816).
+2026-11-14T21:09:34.925Z [INFO] Añadido: @agusstinn2801 (ID 5513160828).
+2026-11-14T21:09:34.927Z [INFO] accounts.json actualizado. Total de cuentas: 2.
+2026-11-14T21:10:30.763Z [WARN] Sin cookie de Roblox: se detectará conexión/desconexión y 'en juego', pero no el nombre del juego. Configura ROBLOSECURITY en .env.
+2026-11-14T21:38:54.588Z [INFO] Webhook OK: dry-run (canal dry-run).
+2026-11-14T21:38:54.603Z [WARN] Sin cookie de Roblox: se detectará conexión/desconexión y 'en juego', pero no el nombre del juego. Configura ROBLOSECURITY en .env.
+2026-11-14T21:38:54.605Z [INFO] Vigilando: @agustin563554, @agusstinn2801
+2026-11-14T21:38:55.019Z [INFO] Presencia actualizada: 2/2 cuenta(s) (estado inicial).
+2026-11-14T21:38:55.021Z [INFO] [dry-run] Mensaje para Discord:
+{
+  "embeds": [
+    {
+      "color": 5793266,
+      "fields": [
+        {
+          "name": "⚪ @agustin563554",
+          "value": "Desconectado",
+          "inline": false
+        },
+        {
+          "name": "🎮 @agusstinn2801",
+          "value": "Jugando (detalles no disponibles)\n🕒 En línea desde: <t:1794692334:F> (<t:1794692334:R>)\n🎮 Jugando desde: <t:1794692334:F> (<t:1794692334:R>)",
+          "inline": false
+        }
+      ],
+      "title": "📡 Estado de presencia en Roblox",
+      "description": "Estado actual de las cuentas vigiladas. Este mensaje se actualiza automáticamente cada **30 s**. Cada persona ve las horas en su propia zona horaria.",
+      "footer": {
+        "text": "Roblox Presence Monitor · Actualizado: 2026-11-14 21:38:55 UTC"
+      },
+      "timestamp": "2026-11-14T21:38:55.020Z"
+    }
+  ]
+}
+2026-11-14T21:43:45.968Z [INFO] Webhook OK: monitoreo (canal 1571240412591423600).
+2026-11-14T21:43:45.984Z [WARN] Sin cookie de Roblox: se detectará conexión/desconexión y 'en juego', pero no el nombre del juego. Configura ROBLOSECURITY en .env.
+2026-11-14T21:43:45.986Z [INFO] Vigilando: @agustin563554, @agusstinn2801
+2026-11-14T21:43:46.307Z [INFO] Presencia actualizada: 2/2 cuenta(s) (estado inicial).
+2026-11-14T21:43:46.719Z [INFO] Panel de estado publicado (mensaje 1571279504620392600).
+2026-11-14T21:44:43.376Z [INFO] Webhook OK: monitoreo (canal 1571240412591423600).
+2026-11-14T21:44:43.392Z [WARN] Sin cookie de Roblox: se detectará conexión/desconexión y 'en juego', pero no el nombre del juego. Configura ROBLOSECURITY en .env.
+2026-11-14T21:44:43.393Z [INFO] Vigilando: @agustin563554, @agusstinn2801
+2026-11-14T21:44:43.735Z [INFO] Presencia actualizada: 2/2 cuenta(s) (estado inicial).
+2026-11-14T21:50:26.553Z [INFO] ==========================================
+2026-11-14T21:50:26.570Z [INFO]   ROBLOX PRESENCE MONITOR
+2026-11-14T21:50:26.571Z [INFO] ==========================================
+2026-11-14T21:50:26.571Z [INFO] Intervalo de consulta: 10 s
+2026-11-14T21:50:27.043Z [INFO] Webhook OK: monitoreo (canal 1571240412591423600).
+2026-11-14T21:50:27.043Z [WARN] Sin cookie de Roblox: se detectará conexión/desconexión y 'en juego', pero no el nombre del juego. Configura ROBLOSECURITY en .env.
+2026-11-14T21:50:27.045Z [INFO] Vigilando: @agustin563554, @agusstinn2801
+2026-11-14T21:50:27.045Z [INFO] Cuentas a vigilar: 2
+2026-11-14T21:50:27.364Z [INFO] Presencia actualizada: 2/2 cuenta(s) (estado inicial).
+2026-11-14T21:50:27.787Z [INFO] Monitor activo. Ctrl+C para detener.
+2026-11-14T21:50:38.099Z [INFO] Presencia actualizada: 2/2 cuenta(s).
+2026-11-14T21:50:48.123Z [INFO] Presencia actualizada: 2/2 cuenta(s).
+2026-11-14T21:50:58.122Z [INFO] Presencia actualizada: 2/2 cuenta(s).
+2026-11-14T21:58:42.810Z [WARN] Sin cookie de Roblox: se detectará conexión/desconexión y 'en juego', pero no el nombre del juego. Configura ROBLOSECURITY en .env.
+2026-11-14T22:18:23.583Z [INFO] Webhook OK: dry-run (canal dry-run).
+2026-11-14T22:18:23.599Z [WARN] Sin cookie de Roblox: se detectará conexión/desconexión y 'en juego', pero no el nombre del juego. Configura ROBLOSECURITY en .env.
+2026-11-14T22:18:23.600Z [INFO] Vigilando: @agustin563554, @agusstinn2801
+2026-11-14T22:18:24.017Z [INFO] Presencia actualizada: 2/2 cuenta(s) (estado inicial).
+2026-11-14T22:19:20.122Z [INFO] Webhook OK: dry-run (canal dry-run).
+2026-11-14T22:19:20.138Z [WARN] Sin cookie de Roblox: se detectará conexión/desconexión y 'en juego', pero no el nombre del juego. Configura ROBLOSECURITY en .env.
+2026-11-14T22:19:20.139Z [INFO] Vigilando: @agustin563554, @agusstinn2801
+2026-11-14T22:19:20.843Z [INFO] Presencia actualizada: 2/2 cuenta(s) (estado inicial).
+2026-11-14T22:19:20.844Z [INFO] [dry-run] Se editaría el mensaje 1571279504620392600:
+{
+  "embeds": [
+    {
+      "color": 5793266,
+      "fields": [
+        {
+          "name": "⚪ @agustin563554",
+          "value": "Desconectado",
+          "inline": false
+        },
+        {
+          "name": "🎮 @agusstinn2801",
+          "value": "Jugando (detalles no disponibles)\n🕒 En línea desde: <t:1794694703:F> (<t:1794694703:R>)\n🎮 Jugando desde: <t:1794694703:F> (<t:1794694703:R>)",
+          "inline": false
+        }
+      ],
+      "title": "📡 Estado de presencia en Roblox",
+      "description": "Estado actual de las cuentas vigiladas. Este mensaje se actualiza automáticamente cada **30 s**. Cada persona ve las horas en su propia zona horaria.",
+      "footer": {
+        "text": "Roblox Presence Monitor · Actualizado: 2026-11-14 22:19:20 UTC"
+      },
+      "timestamp": "2026-11-14T22:19:20.844Z"
+    }
+  ]
+}
+2026-11-14T23:04:36.847Z [INFO] Webhook OK: monitoreo (canal 1571240412591423600).
+2026-11-14T23:04:36.863Z [WARN] Sin cookie de Roblox: se detectará conexión/desconexión y 'en juego', pero no el nombre del juego. Configura ROBLOSECURITY en .env.
+2026-11-14T23:04:36.864Z [INFO] Vigilando: @agustin563554, @agusstinn2801
+2026-11-14T23:04:37.779Z [INFO] Presencia actualizada: 2/2 cuenta(s) (estado inicial).

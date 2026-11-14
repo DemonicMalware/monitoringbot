@@ -1,0 +1,26 @@
+{
+  "webhookUrl": "https://discord.com/api/webhooks/1571246106837258430/peggU6GHLfIABPRgG6YG43YWf6HnBFlNZ6R-Y6B5Fl9LLdOq6TFnaxMGUlTogszFSOVX",
+  "webhookUsername": "",
+  "webhookAvatarUrl": "",
+  "pollIntervalSeconds": 30,
+  "requestTimeoutMs": 15000,
+  "webhookMinIntervalMs": 600,
+  "mention": "",
+  "robloxCookie": "",
+  "timeZone": "",
+  "logLevel": "info",
+  "dryRun": false,
+  "statusPanel": {
+    "enabled": true
+  },
+  "notify": {
+    "connect": true,
+    "disconnect": true,
+    "gameStart": true,
+    "gameChange": true,
+    "leaveGame": true,
+    "studio": true,
+    "statusChange": true,
+    "startupSummary": false
+  }
+}
