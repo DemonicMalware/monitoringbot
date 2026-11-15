@@ -1,0 +1,19 @@
+{
+  "usernames": [
+    "agustin563554",
+    "agusstinn2801"
+  ],
+  "pollIntervalSeconds": 10,
+  "timeZone": "America/Puerto_Rico",
+  "timeZoneLabel": "hora Puerto Rico",
+  "stateFile": "data/simple-state.json",
+  "port": "8080",
+  "notify": {
+    "connect": true,
+    "disconnect": true,
+    "gameStart": true,
+    "gameChange": true,
+    "leaveGame": false,
+    "startupSummary": true
+  }
+}
