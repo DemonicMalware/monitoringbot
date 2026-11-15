@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "users": {
+    "1850652816": {
+      "userId": 1850652816,
+      "username": "agustin563554",
+      "displayName": "Kricko",
+      "presenceType": 2,
+      "isOnline": true,
+      "lastLocation": "Build to Fight Zombies",
+      "placeId": 83385558650869,
+      "rootPlaceId": 83385558650869,
+      "universeId": 10768999716,
+      "gameId": "097d747a-cc8e-43a1-9722-3f00693f404a",
+      "game": {
+        "name": "Build to Fight Zombies",
+        "placeId": 83385558650869,
+        "rootPlaceId": 83385558650869,
+        "universeId": 10768999716,
+        "gameId": "097d747a-cc8e-43a1-9722-3f00693f404a",
+        "iconUrl": "https://tr.rbxcdn.com/180DAY-128d3aa0b34c226fc0f3fb46b89241f0/512/512/Image/Png/noFilter",
+        "url": "https://www.roblox.com/games/83385558650869",
+        "joinUrl": "https://www.roblox.com/games/start?placeId=83385558650869\u0026gameInstanceId=097d747a-cc8e-43a1-9722-3f00693f404a"
+      },
+      "since": "2026-11-15T02:29:55.426Z",
+      "sessionStart": "2026-11-14T23:04:36.865Z",
+      "lastSeenAt": "2026-11-15T02:58:42.498Z",
+      "lastOnline": null,
+      "lastSessionMs": null,
+      "lastPollAt": "2026-11-15T02:58:42.498Z"
+    },
+    "5513160828": {
+      "userId": 5513160828,
+      "username": "agusstinn2801",
+      "displayName": "agusstinn2801",
+      "presenceType": 0,
+      "isOnline": false,
+      "lastLocation": "",
+      "placeId": null,
+      "rootPlaceId": null,
+      "universeId": null,
+      "gameId": null,
+      "game": null,
+      "since": "2026-11-15T02:29:55.426Z",
+      "sessionStart": "2026-11-14T22:18:23.600Z",
+      "lastSeenAt": "2026-11-14T23:04:36.865Z",
+      "lastOnline": null,
+      "lastSessionMs": 15091826,
+      "lastPollAt": "2026-11-15T02:58:42.498Z"
+    }
+  },
+  "updatedAt": "2026-11-15T02:58:42.498Z",
+  "panel": {
+    "messageId": "1571279504620392600",
+    "channelId": "1571240412591423600",
+    "createdAt": "2026-11-14T21:43:46.308Z",
+    "updatedAt": "2026-11-15T02:58:43.771Z"
+  }
+}

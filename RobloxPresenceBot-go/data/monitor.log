@@ -1,0 +1,35 @@
+2026-11-15T02:28:58Z [WARN] Sin cookie de Roblox: se detectará conexión/desconexión y 'en juego', pero no el nombre del juego. Configura ROBLOSECURITY en .env.
+2026-11-15T02:29:55Z [INFO] Webhook OK: dry-run (canal dry-run).
+2026-11-15T02:29:55Z [WARN] Sin cookie de Roblox: se detectará conexión/desconexión y 'en juego', pero no el nombre del juego. Configura ROBLOSECURITY en .env.
+2026-11-15T02:29:55Z [INFO] Vigilando: @agustin563554, @agusstinn2801
+2026-11-15T02:29:57Z [INFO] Presencia actualizada: 2/2 cuenta(s) (estado inicial).
+2026-11-15T02:29:57Z [INFO] [dry-run] Se editaría el mensaje 1571279504620392600:
+{
+  "embeds": [
+    {
+      "color": 5793266,
+      "description": "Estado actual de las cuentas vigiladas. Este mensaje se actualiza automáticamente cada **30 s**. Cada persona ve las horas en su propia zona horaria.",
+      "fields": [
+        {
+          "inline": false,
+          "name": "🎮 @agustin563554",
+          "value": "Jugando **Build to Fight Zombies**\n🔗 [Abrir juego](https://www.roblox.com/games/83385558650869)\n🕒 En línea desde: \u003ct:1794697476:F\u003e (\u003ct:1794697476:R\u003e)\n🎮 Jugando desde: \u003ct:1794709795:F\u003e (\u003ct:1794709795:R\u003e)"
+        },
+        {
+          "inline": false,
+          "name": "⚪ @agusstinn2801",
+          "value": "Desconectado\n🕒 Última conexión: \u003ct:1794697476:F\u003e (\u003ct:1794697476:R\u003e)\n⏳ Última sesión: 4 h 11 min"
+        }
+      ],
+      "footer": {
+        "text": "Roblox Presence Monitor · Actualizado: 2026-11-15 02:29:57 UTC"
+      },
+      "timestamp": "2026-11-15T02:29:57.011Z",
+      "title": "📡 Estado de presencia en Roblox"
+    }
+  ]
+}
+2026-11-15T02:58:42Z [INFO] Webhook OK: monitoreo (canal 1571240412591423600).
+2026-11-15T02:58:42Z [WARN] Sin cookie de Roblox: se detectará conexión/desconexión y 'en juego', pero no el nombre del juego. Configura ROBLOSECURITY en .env.
+2026-11-15T02:58:42Z [INFO] Vigilando: @agustin563554, @agusstinn2801
+2026-11-15T02:58:43Z [INFO] Presencia actualizada: 2/2 cuenta(s) (estado inicial).
